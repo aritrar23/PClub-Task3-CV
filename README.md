@@ -8,7 +8,7 @@ c) I did not use any of the existing solutions to the problem in the Kaggle webs
 
 d) There are 2 notebooks - pclubtask3.ipynb is for the model and PClubTask3Gradio.ipynb is for the Gradio implementation.
 
-First run the pclubtask3.ipynb file. Please run it on a Kaggle environment only with GPU, not Colab or Jupyter Notebook. First download the dataset in the input section of Kaggle, then run the program. The program will run, then it give a link to download the keras model at the last cell. Download that model.
+First run the pclubtask3.ipynb file. Please run it on a Kaggle environment only with GPU, not Colab or Jupyter Notebook. (I had no choice but to implement my model on Kaggle because I required free GPU, please understand.) First download the dataset in the input section of Kaggle, then run the program. The program will run, then it will give a link to download the keras model at the last cell. Download that model.
 
 Now proceed to PClubTask3Gradio.ipynb. Please run this file on Jupyter Notebook (no need of GPU), not Colab or Kaggle. Here change the model path to the path where you stored this keras model, then run the file. Be sure to follow the comments as instructions are mentioned there, like replacing image_path with any image of your choice. Ultimately the last cell will give the Gradio interface, where you can upload your image.
 
