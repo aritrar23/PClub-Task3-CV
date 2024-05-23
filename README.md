@@ -1,6 +1,8 @@
 # PClub-Task3-CV
 
-a) Kaggle Link - https://www.kaggle.com/datasets/itsshuvra/gender-classified-dataset-with-masked-face
+a) Kaggle Link - https://www.kaggle.com/datasets/itsshuvra/gender-classified-dataset-with-masked-face 
+
+I tried to upload the dataset folder on Google Drive, but it was of 1 GB, and it could not be uploaded with the limited net connectivity in my home. Please understand.
 
 b) I searched online for a gender classification dataset with masked images, specifically mentioning Kaggle, and found the one described above. It consisted of synthetically augmented images - a surgical mask had been placed on a normal portrait of a person. It seemed very extensive, hence I used it.
 
