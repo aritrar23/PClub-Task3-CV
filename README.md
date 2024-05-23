@@ -12,6 +12,16 @@ First run the pclubtask3.ipynb file. Please run it on a Kaggle environment only 
 
 Now proceed to PClubTask3Gradio.ipynb. Please run this file on Jupyter Notebook (no need of GPU), not Colab or Kaggle. Here change the model path to the path where you stored this keras model, then run the file. Be sure to follow the comments as instructions are mentioned there, like replacing image_path with any image of your choice. Ultimately the last cell will give the Gradio interface, where you can upload your image.
 
-e) Screnshots - 
+e) Screenshots - 
 
 ![alt text](https://github.com/aritrar23/PClub-Task3-CV/blob/main/Shots/Screenshot%20(310).png)
+
+![alt text](https://github.com/aritrar23/PClub-Task3-CV/blob/main/Shots/Screenshot%20(311).png)
+
+![alt text](https://github.com/aritrar23/PClub-Task3-CV/blob/main/Shots/Screenshot%20(312).png)
+
+![alt text](https://github.com/aritrar23/PClub-Task3-CV/blob/main/Shots/Screenshot%20(313).png)
+
+![alt text](https://github.com/aritrar23/PClub-Task3-CV/blob/main/Shots/Screenshot%20(314).png)
+
+![alt text](https://github.com/aritrar23/PClub-Task3-CV/blob/main/Shots/Screenshot%20(315).png)
